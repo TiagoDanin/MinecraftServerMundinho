@@ -1,0 +1,83 @@
+{
+  "kits": {
+    "tools": {
+      "duration": 40000,
+      "items": [
+        {
+          "name": "minecraft:stone_sword",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:sharpness\",lvl:3},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"/kit tools\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:stone_pickaxe",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:3},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"/kit tools\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:stone_axe",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:3},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"/kit tools\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:stone_shovel",
+          "quantity": 1,
+          "nbt": "{Enchantments:[{id:\"minecraft:efficiency\",lvl:3},{id:\"minecraft:unbreaking\",lvl:2}],Tags:[\"/kit tools\"],display:{Name:\"{\\\"text\\\":\\\"/kit tools\\\"}\"}}"
+        },
+        {
+          "name": "minecraft:cooked_porkchop",
+          "quantity": 20,
+          "nbt": ""
+        },
+        {
+          "name": "minecraft:torch",
+          "quantity": 64,
+          "nbt": ""
+        }
+      ]
+    },
+    "chest": {
+      "duration": 86400,
+      "items": [
+        {
+          "name": "minecraft:ender_chest",
+          "quantity": 1,
+          "nbt": ""
+        }, {
+          "name": "minecraft:purple_shulker_box",
+          "quantity": 1,
+          "nbt": ""
+        }
+      ]
+    },
+    "log": {
+      "duration": 86400,
+      "items": [
+        {
+          "name": "minecraft:oak_log",
+          "quantity": 40,
+          "nbt": ""
+        }, {
+          "name": "minecraft:spruce_log",
+          "quantity": 40,
+          "nbt": ""
+        }, {
+          "name": "minecraft:birch_log",
+          "quantity": 40,
+          "nbt": ""
+        }, {
+          "name": "minecraft:jungle_log",
+          "quantity": 10,
+          "nbt": ""
+        }, {
+          "name": "minecraft:acacia_log",
+          "quantity": 16,
+          "nbt": ""
+        }, {
+          "name": "minecraft:dark_oak_log",
+          "quantity": 16,
+          "nbt": ""
+        }
+      ]
+    }
+  }
+}
